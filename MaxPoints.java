@@ -31,4 +31,3 @@ public int maxPoints(Point[] points) {
     		}
     		return max;
     }
->>>>>>> 124d55e24ebf09c40775626de5d78446a07b912c
